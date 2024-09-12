@@ -1,0 +1,28 @@
+body {
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+nav li,
+nav a {
+  text-transform: uppercase;
+}
+
+.big-sur {
+  border-radius: 50% 0 0 50%;
+  z-index: -1;
+}
+
+.pill i:hover {
+  background: #42454A;
+  color: white;
+  cursor: pointer;
+}
+
+p,
+h1,
+h2,
+h3,
+span {
+  color: #42454A;
+}
